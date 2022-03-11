@@ -4,4 +4,5 @@
 3. A script that compiles and creates an executable named file.
 4. A string programme.
 5. A printf programme.
-6.  
+6. A programme that returns the datastructure size in use on the particular machine.
+7.  
