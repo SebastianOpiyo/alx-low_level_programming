@@ -5,4 +5,5 @@
 4. A string programme.
 5. A printf programme.
 6. A programme that returns the datastructure size in use on the particular machine.
-7.  
+7. A script that generates assembly code(Intel syntax) of C code and saves in output file.
+8. C programme that prints to standard error  
