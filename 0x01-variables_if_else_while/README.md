@@ -6,4 +6,5 @@ CONDITIONAL & WHILE LOOPS
 4. A program that prints lowercase letters apart from e and q
 5. A program that prints numbers from 0-9
 6. Use putchar without char to perform tast 5
-7.    
+7. Use putchar to print lowercase letters in reverse order.
+8.     
