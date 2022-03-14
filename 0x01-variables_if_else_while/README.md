@@ -7,4 +7,5 @@ CONDITIONAL & WHILE LOOPS
 5. A program that prints numbers from 0-9
 6. Use putchar without char to perform tast 5
 7. Use putchar to print lowercase letters in reverse order.
-8.     
+8. Add a program that prints the hexadecimal values.
+9.     
