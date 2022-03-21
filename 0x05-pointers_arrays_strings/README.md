@@ -2,4 +2,5 @@ ARRAYS, POINTERS & STRINGS
 
 0. Assign a value to an int using a pointer
 1. Swap int variable values using pointers
-2.
+2. A function that returns string length
+3.
