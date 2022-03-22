@@ -21,7 +21,6 @@ void print_rev(char *s)
 		s[i] = s[j];
 		s[j] = a;
 
-		_putchar(s[j]);
 	}
 	_putchar('\n');
 }
