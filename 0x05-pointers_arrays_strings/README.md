@@ -6,4 +6,5 @@ ARRAYS, POINTERS & STRINGS
 3. A function that prints a string like <puts>
 4. A function that prints a string in reverse.
 5. A print string in reverse.
-6. 
+6. a function that prints every other character (skips one char)
+ 
