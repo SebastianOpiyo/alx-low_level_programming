@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_rev - a function that takes a string input and
+ * rev_string - a function that takes a string input and
  * prints it in reverse order.
  *
  * @s: string parameter
  * Return: Void
  */
 
-void print_rev(char *s)
+void rev_string(char *s)
 {
 	int i, len, temp;
 
