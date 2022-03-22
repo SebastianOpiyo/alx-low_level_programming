@@ -11,8 +11,6 @@
 void print_rev(char *s)
 {
 	int i;
-	int j;
-	unsigned char a;
 	unsigned int len = 0;
 
 	while (s[len] != '\0')
@@ -20,12 +18,9 @@ void print_rev(char *s)
 		len++;
 	}
 
-	for (i = 0, j = len - 1; i < j; i++, j--)
+	for (i = len - 1; i > 0; i--)
 	{
-		a = s[i];
-		s[i] = s[j];
-		s[j] = a;
-		_putchar(s[j]);
+		_putchar(s[i]);
 
 	}
 	_putchar('\n');
